@@ -1,0 +1,5 @@
+# Claude Code local session/tool state — never part of the project
+.claude/
+
+# Runtime-uploaded files (test images etc.) dropped by the backend at runtime
+BACKEND/src/uploads/
